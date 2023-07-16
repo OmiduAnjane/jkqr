@@ -23,7 +23,7 @@ const {
   downloadContentFromMessage,
   makeInMemoryStore,
   jidDecode,
-} = require("./Baileys/lib");
+} = require("https://github.com/Pendragon-Md/Pendragon-Md/tree/main/BaileysJS/lib");
 const fs = require("fs");
 const figlet = require("figlet");
 const { join } = require("path");
